@@ -111,7 +111,7 @@ streamlit run weather_dashboard.py
 This will open the Streamlit app in your default browser, where you can input a city and visualize the weather data.
 
 # OUTPUT
-
+![Image](https://github.com/user-attachments/assets/7a19a42f-d73e-43fd-b749-b4de3138d795)
 
 
 
